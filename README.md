@@ -54,8 +54,6 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 
 DNSCat-PNG-Extractor is released under the [MIT License](LICENSE).
 
-Certainly! Here's a "References" section for your README, including the provided links:
-
 ## References
 
 The development of the DNSCat-PNG-Extractor tool was significantly informed and enriched by the following resources. These references provided crucial insights into DNS exfiltration, the workings of `dnscat`, and the PNG format, which were essential in shaping the tool's capabilities and functionalities:
